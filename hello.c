@@ -7,8 +7,3 @@ int main()
     printf("address of salary=%p\n",&salary);
     return 0;
 }
-
-// git status
-// git add .
-// git commit -m "Todays Code"
-// git push origin master
